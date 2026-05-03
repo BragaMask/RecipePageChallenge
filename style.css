@@ -18,6 +18,8 @@ body{
 
 img{
     border-radius: 10px;
+    height: 50px;
+    width: 50px;
 }
 
 h1{
@@ -52,7 +54,14 @@ footer a{
 
 /**/
 
+
 .container{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.card{
     background: #FFFFFF;
     border-radius: 10px;
     display: grid;
