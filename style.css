@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2{
+    font-family: "Young-Serif", serif;
+}
+
+h4,p,li{
+    font-family: "Outfit", serif;
+}
