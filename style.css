@@ -10,3 +10,21 @@ h1,h2{
 h4,p,li{
     font-family: "Outfit", serif;
 }
+
+body{
+    background:#F3E5D8 ;
+}
+
+footer{
+    text-align: center;
+    font-weight: 300;
+}
+
+footer a{
+    text-decoration: none;
+    color: blue;
+}
+
+.container{
+    background: #FFFFFF;
+}
