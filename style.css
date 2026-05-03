@@ -1,3 +1,4 @@
+/*DEFAULT CSS CONFIG*/
 *{
     margin: 0;
     padding: 0;
@@ -15,6 +16,30 @@ body{
     background:#F3E5D8 ;
 }
 
+img{
+    border-radius: 10px;
+}
+
+h1{
+    color: #302C29;
+}
+
+h2{
+    color: #854533;
+}
+
+h4{
+    color: #7B284D;
+}
+
+p{
+    color: #302C29;
+}
+
+li{
+    color: #302C29;
+}
+
 footer{
     text-align: center;
     font-weight: 300;
@@ -25,8 +50,11 @@ footer a{
     color: blue;
 }
 
+/**/
+
 .container{
     background: #FFFFFF;
+    border-radius: 10px;
     display: grid;
     justify-content: center;
     align-items: center;
