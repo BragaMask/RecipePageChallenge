@@ -18,8 +18,8 @@ body{
 
 img{
     border-radius: 10px;
-    height: 50px;
-    width: 50px;
+    height: 100%;
+    width: 100%;
 }
 
 h1{
@@ -36,6 +36,7 @@ h4{
 
 p{
     color: #302C29;
+    font-size: 1rem;
 }
 
 li{
@@ -57,7 +58,7 @@ footer a{
 
 .container{
     height: 500px;
-    width: 600px;
+    width: 800px;
     margin: 0 auto;
 }
 
@@ -68,6 +69,7 @@ footer a{
     display: grid;
     justify-content: center;
     align-items: center;
+    padding: 2.5rem;
     margin: 40px;
 }
 
@@ -78,5 +80,7 @@ footer a{
 .card li{
     list-style-position: inside; /*isso faz as bolinhas das listas ficarem dentro da div*/
 }
+
+
 
 /*teste*/
