@@ -56,17 +56,27 @@ footer a{
 
 
 .container{
-    height: 200px;
-    width: 200px;
+    height: 500px;
+    width: 600px;
     margin: 0 auto;
 }
 
 .card{
+    height: auto;
     background: #FFFFFF;
     border-radius: 10px;
     display: grid;
     justify-content: center;
     align-items: center;
+    margin: 40px;
+}
+
+.card img{
+    margin: 0 auto;
+}
+
+.card li{
+    list-style-position: inside; /*isso faz as bolinhas das listas ficarem dentro da div*/
 }
 
 /*teste*/
